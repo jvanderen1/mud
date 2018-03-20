@@ -1,4 +1,4 @@
-# mud
+# mud [![Build Status](https://travis-ci.org/jvanderen1/mud.svg?branch=master)](https://travis-ci.org/jvanderen1/mud)
 
 An absolute bare-bones web app.
 
